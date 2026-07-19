@@ -1,0 +1,21 @@
+# Build outputs
+bin/
+obj/
+[Dd]ebug/
+[Rr]elease/
+
+# Compiled files
+*.dll
+*.exe
+*.pdb
+*.deps.json
+*.runtimeconfig.json
+
+# IDE & Editor files
+.vs/
+.vscode/
+*.suo
+*.user
+
+# Publish output
+publish/
