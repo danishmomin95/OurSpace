@@ -1,0 +1,8 @@
+D:\THE_BEGINNING\OurSpace\OurSpace\obj\Release\net10.0\PubTmp\Out\OurSpace.exe
+D:\THE_BEGINNING\OurSpace\OurSpace\obj\Release\net10.0\PubTmp\Out\appsettings.Development.json
+D:\THE_BEGINNING\OurSpace\OurSpace\obj\Release\net10.0\PubTmp\Out\appsettings.json
+D:\THE_BEGINNING\OurSpace\OurSpace\obj\Release\net10.0\PubTmp\Out\dotnet-tools.json
+D:\THE_BEGINNING\OurSpace\OurSpace\obj\Release\net10.0\PubTmp\Out\OurSpace.dll
+D:\THE_BEGINNING\OurSpace\OurSpace\obj\Release\net10.0\PubTmp\Out\OurSpace.deps.json
+D:\THE_BEGINNING\OurSpace\OurSpace\obj\Release\net10.0\PubTmp\Out\OurSpace.runtimeconfig.json
+D:\THE_BEGINNING\OurSpace\OurSpace\obj\Release\net10.0\PubTmp\Out\OurSpace.pdb
